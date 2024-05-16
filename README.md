@@ -204,6 +204,6 @@ nvidia-smi #查看显存占用
 ## 协议
 **RoadSafety-Gpt** 可在 **Apache** 许可证下使用。请查看 **LICENSE** 文件获取更多信息。
 ## 引用
-本项目由中南大学<智慧交通湖南省重点实验室>发起。
+
 ## Star History
 ![Star History Chart](https://api.star-history.com/svg?repos=l-show/RoadSafety-GPT&type=Date)
